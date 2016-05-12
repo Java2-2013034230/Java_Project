@@ -14,4 +14,7 @@ public class Car {
 		speed = s;
 		id = ++numbers;
 	}
+	public static int getNumbers(){
+		return numbers; 
+		}
 }

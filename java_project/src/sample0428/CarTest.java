@@ -2,7 +2,7 @@ package sample0428;
 
 public class CarTest {
 	
-	public static int getNumbers(){return Numbers;}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
