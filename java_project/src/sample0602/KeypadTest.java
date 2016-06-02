@@ -1,12 +1,11 @@
-package sample0526;
+package sample0602;
 
-public class CalculatorTest {
+public class KeypadTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
-		Calculator C = new Calculator();
+		Keypad K = new Keypad();
 	}
 
 }
